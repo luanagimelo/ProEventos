@@ -1,1 +1,3 @@
 no json a gente pode configurar e versionar as coisas
+
+entity framework é o que a gente usa pra mexer com bd
